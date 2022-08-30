@@ -1,5 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 20 L03 Creating Github repositories and page
+ZCZC W00 15 L03 Creating Github repositories
 ZCZC W00 110 L02 Tuesday OS ZOOM meeting
+ZCZC W00 10 L04 Searching how to create github page and creating github page

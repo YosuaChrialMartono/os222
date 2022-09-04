@@ -2,5 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 15 L03 Creating Github repositories
-ZCZC W00 110 L02 Tuesday OS ZOOM meeting
+ZCZC W00 110 L02 Tuesday (30 Sept 2022) OS ZOOM meeting
 ZCZC W00 10 L04 Searching how to create github page and creating github page
+ZCZC W00 90 L02 Thursday (1 Sept 2022) OS ZOOM meeting

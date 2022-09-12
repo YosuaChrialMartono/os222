@@ -1,6 +1,3 @@
 ---
 ---
-
-[HOME]([{{site.baseurl}}](https://github.com/kkoep/os222))
-[LINKS]([{{site.baseurl}}/LINKS/](https://github.com/kkoep/os222/blob/master/links.md))
-[LOG]([{{site.baseurl}}/TXT/mylog.txt](https://github.com/kkoep/os222/blob/master/TXT/mylog.txt))
+[HOME]({{ site.baseurl }}/) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [LOG]({{ site.baseurl }}{{ site.myloglink }}) --- [GITHUB]({{ site.githublink }})

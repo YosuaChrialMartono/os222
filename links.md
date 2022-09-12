@@ -3,7 +3,7 @@ permalink: /LINKS/.
 ---
 #OS222: Operating Systems 2022-2
 
-[HOME]({{ site.baseurl }}/) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [LOG]({{ site.baseurl }}{{ site.myloglink }}) --- [GITHUB]({{ site.githublink }})
+[HOME]({{ site.baseurl }}/) --- [LINKS]({{ site.baseurl }}/LINKS/ .) --- [LOG](https://github.com/kkoep/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/kkoep/os222)
 
 # Links
 1. [12 Reasons Why You Should Choose Debian Linux](https://www.makeuseof.com/tag/reasons-choose-debian-linux/#:~:text=With%20stable%20software%20and%20long,grab%20server-related%20tools%20instead.)<br>

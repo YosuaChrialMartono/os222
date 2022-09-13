@@ -1,5 +1,5 @@
 ---
-permalink: /LINKS/.
+permalink: /LINKS/
 ---
 #OS222: Operating Systems 2022-2
 

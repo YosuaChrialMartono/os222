@@ -11,3 +11,10 @@ permalink: /LINKS/
 This article is about why we need to choose Debian. I personally think this article has opened my mind on why we use Debian in this class.
 2. [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)<br>
 This article explains alot on the way of bash scripting. I think this article is important as a foundation to start on learning bash scripting
+
+## Week 2
+1. 
+
+
+## Week 3
+1. 

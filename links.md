@@ -3,10 +3,10 @@ permalink: /LINKS/
 ---
 #OS222: Operating Systems 2022-2
 
-[HOME]({{ site.baseurl }}/) --- [LINKS](https://github.com/kkoep/os222/LINKS/) --- [LOG](https://github.com/kkoep/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/kkoep/os222)
+[HOME]({{ site.baseurl }}/) --- [LINKS]({{ site.baseurl }}/LINKS/) --- [LOG](https://github.com/kkoep/os222/blob/master/TXT/mylog.txt) --- [GITHUB](https://github.com/kkoep/os222)
 
 # Links
-## 1️⃣ Week 1
+## Week 1
 1. [12 Reasons Why You Should Choose Debian Linux](https://www.makeuseof.com/tag/reasons-choose-debian-linux/#:~:text=With%20stable%20software%20and%20long,grab%20server-related%20tools%20instead.)<br>
 This article is about why we need to choose Debian. I personally think this article has opened my mind on why we use Debian in this class.
 2. [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)<br>

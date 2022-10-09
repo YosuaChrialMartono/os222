@@ -24,3 +24,15 @@ Everything on Encryption. What it is, How it works, and why we need it. Motivate
 Explains a lot on file system. This article touch in on many examples on how a file system works and compare them to each other.
 2. [File System and Partition Explained: How to Take Control of Your Storage](https://dongknows.com/disk-partition-and-file-system-explained/)<br>
 Change how you look on file system and partition. Read this article when i'm looking for more explanation on the topic.
+
+## 4️⃣ Week 4
+1. [Linux memory management](https://www.javatpoint.com/linux-memory-management)<br>
+This link help me understand linux memory management. It touches on many of it with the likes of page cache and virtual memory discussed in it.
+2. [Computer - memory](https://www.tutorialspoint.com/computer_fundamentals/computer_memory.htm)<br>
+This link summarize neatly on the different types of computer memory. With theh summary in this link I can understand the differents of each memory types.
+
+## 5️⃣ Week 5
+1. [Segmented, Paged and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+Segmented, Paged and Virtual Memory are concepts we touch on this week learning. This video I found helps me much on how these concepts works.
+2. [What Is Virtual Memory on Linux? How to Manage It](https://www.makeuseof.com/virtual-memory-on-linux/)<br>
+This article further deepen my understanding on Virtual Memory concept. With this link I learn many new concepts surrounding Virtual memory.
